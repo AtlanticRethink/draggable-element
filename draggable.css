@@ -1,5 +1,6 @@
 #draggable {
     background-color: #26aaa7;
+    cursor: move;
     font-family: 'Helvetica', sans-serif;
     width: 10vw;
     height: 10vw;
